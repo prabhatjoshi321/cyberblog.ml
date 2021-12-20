@@ -1,4 +1,3 @@
-# This is a first blog post
 
 
 ---
@@ -13,7 +12,9 @@ tags: [writing]    # TAG names should always be lowercase
 ---
 
 
+# This is a first blog post
 ```
+
 hello world
 
 
