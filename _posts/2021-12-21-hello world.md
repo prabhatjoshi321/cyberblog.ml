@@ -31,9 +31,11 @@ hello world
 ```console
 foo@bar:~$ whoami
 foo
+{: file="c/users/user" }
 ```
 
 ## Zsh
+
 ```zsh
 /mnt/hgfs/c/users/prabh/documents/github                                                                    joshi@joshi
 ❯ git clone https://github.com/prabhatjoshi321/cyberblog.ml.git
