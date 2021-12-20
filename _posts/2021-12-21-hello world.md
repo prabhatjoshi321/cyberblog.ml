@@ -1,12 +1,9 @@
-
-
----
 ---
 title: Writing a New Post
 author:
-  name: Cotes Chung
-  link: https://github.com/cotes2020
-date: 2019-08-08 14:10:00 +0800
+  name: Wraithdemon
+  link: https://github.com/prabhatjoshi321
+date: 2021-12-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]    # TAG names should always be lowercase
 ---
