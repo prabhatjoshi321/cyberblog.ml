@@ -9,15 +9,15 @@ order: 4
 # About Me
 ## Who am I and what is this place?
 
-Defining oneself is never simple, or is it. I am a Computer Science major with immense interest in my discipline and this place is a reflection of a nerdier side of me.
+Am a Computer Science major with immense interest in my discipline and this place is a reflection of a nerdier side of me.
 
-I am a student, gentleman, computer science god, foodie, gamer and an addict of machines. I love spending most of my time on my computer learning more about the latest techs in the industry.
+I am a student, gentleman, part time researcher, ethical hacker, foodie, gamer and an addict of machines. I love spending most of my time on my computer learning more about the tech and tools i use and exploring different things.
 
 ## The answers to the questions people ask me about.
 
 * No, I won’t fix your pc. I spend my days fixing and addressing computers and learning more about the tools and techs I use.  I like to do other things when I am off college.
 * I love to do deep talks about topics like the universe, physics, the technologies involved in computer functioning and other technical topics.
-* The computer science discipline fascinates me and so whenever I see new tech coming up, I love to explore and learn more about it.
+* I love to explore and learn more about the inner workings of any tech and so most of my time goes in setting up sandboxes to study that particular tech.
 * Some of my time goes in investing and grooming myself.
 * Currently I do not hold any IT related certifications but am planning to get some.
 
