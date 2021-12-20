@@ -35,8 +35,7 @@ foo
 
 ## Zsh
 ```console
-/mnt/hgfs/c/users/prabh/documents/github
-❯ git clone https://github.com/prabhatjoshi321/cyberblog.ml.git
+joshi@joshi:/mnt/hgfs/c/users/prabh/documents/github$ git clone https://github.com/prabhatjoshi321/cyberblog.ml.git
 Cloning into 'cyberblog.ml'...
 remote: Enumerating objects: 6112, done.
 remote: Total 6112 (delta 0), reused 0 (delta 0), pack-reused 6112
