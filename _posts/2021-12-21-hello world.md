@@ -31,8 +31,8 @@ hello world
 ```console
 foo@bar:~$ whoami
 foo
-{: file="c/users/user" }
 ```
+{: file="c/users/user" }
 
 ## Zsh
 
@@ -45,5 +45,5 @@ remote: Total 6112 (delta 0), reused 0 (delta 0), pack-reused 6112
 Receiving objects: 100% (6112/6112), 2.71 MiB | 415.00 KiB/s, done.
 Resolving deltas: 100% (3565/3565), done.
 
-{: .nolineno}
 ```
+{: .nolineno}
