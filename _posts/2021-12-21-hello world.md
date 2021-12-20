@@ -26,3 +26,9 @@ hello world
 	$client.DownloadFile("http://www.xyz.net/file.txt","C:\tmp\file.txt")
 
 ```
+## Shell
+
+```console
+foo@bar:~$ whoami
+foo
+```
