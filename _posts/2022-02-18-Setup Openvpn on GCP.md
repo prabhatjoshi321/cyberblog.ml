@@ -4,7 +4,7 @@ author:
   name: Wraithdemon
   link: https://github.com/prabhatjoshi321
 date: 2022-02-18 20:00:00 +0800
-categories: [Tutorial]
+categories: [Tutorial, Instructions, Notes]
 tags: [writing]    # TAG names should always be lowercase
 ---
 
