@@ -22,7 +22,7 @@ wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
 
 ### Follow Instructions on terminal
 
-* follow on with the steps given by the setup script.
+* Follow on with the steps given by the setup script.
 * At the appropriate prompt enter the chosen protocol and port. The default will be UDP port 1194. Change it if you had decided to use other port.
 * Generate the .ovpn key files at the appropriate prompt.
 
