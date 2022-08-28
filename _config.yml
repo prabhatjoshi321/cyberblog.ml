@@ -18,7 +18,7 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Wraithdemon  # the main title
+title: Wrathdemon  # the main title
 
 tagline: Walking alone without a shadow.  # it will display as the sub-title
 
@@ -36,8 +36,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Wraithdemon
-  email: wraithdemon@wearehackerone.com # change to your email address
+  name: Wrathdemon
+  email: wrathdemon@wearehackerone.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/joshi_prabhat_    # change to your twitter homepage

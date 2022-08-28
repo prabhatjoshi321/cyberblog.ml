@@ -1,7 +1,7 @@
 ---
 title: Writing a New Post
 author:
-  name: Wraithdemon
+  name: Wrathdemon
   link: https://github.com/prabhatjoshi321
 date: 2021-12-08 14:10:00 +0800
 categories: [Blogging, Tutorial]

@@ -1,7 +1,7 @@
 ---
 title: Windows Server 2003 (NT 5.2 / 3790) guide
 author:
-  name: Wraithdemon
+  name: Wrathdemon
   link: https://github.com/prabhatjoshi321
 date: 2022-01-07 02:40:00 +0800
 categories: [Tutorial, Instructions, Notes]

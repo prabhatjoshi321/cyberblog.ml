@@ -1,7 +1,7 @@
 ---
 title: Linux Cybersec Notes
 author:
-  name: Wraithdemon
+  name: Wrathdemon
   link: https://github.com/prabhatjoshi321
 date: 2022-01-07 15:40:00 +0800
 categories: [OSCP, Instructions, Notes]

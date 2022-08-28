@@ -1,7 +1,7 @@
 ---
 title: Create Your own private VPN using GCP instance
 author:
-  name: Wraithdemon
+  name: Wrathdemon
   link: https://github.com/prabhatjoshi321
 date: 2022-02-18 20:00:00 +0800
 categories: [Tutorial, Instructions, Notes]
