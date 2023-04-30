@@ -12,7 +12,7 @@ tags: [writing]    # TAG names should always be lowercase
 ```
 sudo -l
 
-see for the sudo entries that sre allowed to execute binaries as sudo and check for entries on
+see for the sudo entries for the user that sre allowed to execute binaries as sudo and check for entries on
 
 	https://gtfobins.github.io/
 
