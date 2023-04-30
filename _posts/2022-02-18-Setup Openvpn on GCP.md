@@ -10,7 +10,7 @@ tags: [writing]    # TAG names should always be lowercase
 
 ### Setup a GCP cloud Instance
 
-* Create a GCP cloud instance and open your preferred port by going into the firewall and setting up the Inbound rules for that port.
+* Create a GCP cloud instance and open the preferred port by going into the firewall and setting up the Inbound rules for that port.
 * The preferred port is UDP port 1194 as it is the default used by the openvpn server.
 * If you plan to go with your own choice of ports, remember it as it will be used later.
 
